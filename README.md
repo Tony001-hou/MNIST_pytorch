@@ -1,3 +1,5 @@
+#MNIST Pytorch
+
 This report provides a CNN model with Pytorch, to train and test on MNIST data of handwritten digits, as well as test on single image input.
 This report can be opened in Windows OS and run on local devide. 
 
