@@ -50,20 +50,6 @@ Then, change the following line 49 in **test.py** with the new image files.
 ```
 49 image = Image.open('25.png')
 ```
-
-#### 1. First way
-```
-python test.py
-```
-You can download the **mnist_png.rar** from the google drive, this folder contains all the image data of .png format. Then you can copy an image from **mnist_png** folder and put it under **mnist** folder
-
-Then, change the following line 49 in **test.py** with the new image files.
-
-```
-49 image = Image.open('25.png')
-```
-
-
 #### 2. Second way
 ```
 python test_with_image.py --img_dir 25.png
